@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&text=KINEMATICS-ENGINE&fontSize=50&fontColor=38bdf8&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&text=PRISM_KINEMATICS&fontSize=50&fontColor=38bdf8&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="preview.png" width="90%" alt="PRISM Engine Interface" />
 </p>
 
 ### 🛰️ <samp>system.status // HIGH_FIDELITY_ACTIVE</samp>
@@ -21,6 +25,14 @@ $$y = x \tan(\theta) - \frac{gx^2}{2u^2 \cos^2(\theta)}$$
 Current version utilizes:
 * **Time of Flight:** $T = \frac{2u \sin\theta}{g}$
 * **Maximum Height:** $H = \frac{u^2 \sin^2\theta}{2g}$
+
+---
+
+### 🧪 Simulation Validation
+Using this engine, the following BITSAT kinematic properties were verified:
+- **Complementary Angles:** $\theta$ and $(90^\circ - \theta)$ yield the same horizontal range.
+- **Maximum Range:** Verified at $\theta = 45^\circ$.
+- **Time of Flight:** Maximized at vertical launch ($\theta = 90^\circ$).
 
 ---
 
