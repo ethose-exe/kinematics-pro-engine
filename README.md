@@ -46,3 +46,4 @@ pip install pygame-ce --pre
 
 # Execute Engine
 python main.py
+*Note: This simulation assumes a vacuum environment with zero air resistance ($a_x = 0$).*
