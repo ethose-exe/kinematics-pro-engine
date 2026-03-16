@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&text=PRISM_KINEMATICS&fontSize=50&fontColor=38bdf8&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&text=KINEMATICS-ENGINE&fontSize=50&fontColor=38bdf8&animation=fadeIn" width="100%" />
 </p>
 
 ### 🛰️ <samp>system.status // HIGH_FIDELITY_ACTIVE</samp>
